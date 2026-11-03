@@ -1,0 +1,6 @@
+{
+  "name": "Student Dashboard",
+  "description": "Mobile Apps Development Assignment 2 Student Dashboard with Home, Courses, and Profile tabs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
